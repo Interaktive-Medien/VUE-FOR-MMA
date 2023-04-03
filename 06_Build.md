@@ -36,4 +36,4 @@ Erstelle eine Konfigurationsdatei namens `.htaccess` und lege sie im Ordner `web
 
 # Navigation
 
-👆 [Zurück zur Übersicht](https://github.com/Witzelfitz/MMA20/tree/main/vuejs)
+👆 [Zurück zur Übersicht](https://github.com/Interaktive-Medien/VUE-FOR-MMA)

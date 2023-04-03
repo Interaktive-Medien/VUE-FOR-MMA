@@ -43,4 +43,4 @@ Zitate aus [MDN über JS-Frameworks](https://developer.mozilla.org/en-US/docs/Le
 # Navigation
 👉 [02 Terminal](02_Terminal.md)
 
-[Zurück zur Übersicht](https://github.com/Witzelfitz/MMA20/tree/main/vuejs)
+[Zurück zur Übersicht](https://github.com/Interaktive-Medien/VUE-FOR-MMA)

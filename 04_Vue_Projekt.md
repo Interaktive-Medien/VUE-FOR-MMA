@@ -60,4 +60,4 @@ CTRL + C
 # Navigation
 👉 [05 ToDo-Liste – Vue kennenlernen](05_ToDo.md)
 
-👆 [Zurück zur Übersicht](https://github.com/Witzelfitz/MMA20/tree/main/vuejs)
+👆 [Zurück zur Übersicht](https://github.com/Interaktive-Medien/VUE-FOR-MMA)

@@ -1,10 +1,8 @@
 # 05 ToDo Liste
 Am Beispiel einer ToDo-Liste lernen wir die grundlegenden Konzepte von Vue kennen.
 
-## Im Major programmierte ToDo-Liste
-[Unkommentierte Version](https://github.com/Witzelfitz/MMA20/tree/main/vuejs/projects/todolist-live)
-
-[Kommentierte Version](https://github.com/Witzelfitz/MMA20/tree/main/vuejs/projects/todolist-live-commented)
+## Projekt aus dem Major 2022
+[ToDo-Liste-App](https://github.com/Interaktive-Medien/VUE-FOR-MMA/tree/main/projects/todolist-2022)
 
 ## Konzepte / Lernziele
 1. Overview (index.html, Public)
@@ -39,4 +37,4 @@ Am Beispiel einer ToDo-Liste lernen wir die grundlegenden Konzepte von Vue kenne
 # Navigation
 👉 [06 Build & Deploy](06_Build.md)
 
-👆 [Zurück zur Übersicht](https://github.com/Witzelfitz/MMA20/tree/main/vuejs)
+👆 [Zurück zur Übersicht](https://github.com/Interaktive-Medien/VUE-FOR-MMA)

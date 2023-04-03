@@ -83,4 +83,4 @@ Dafür müssen wir folgende Atom-Packages installieren:
 # Navigation
 👉 [04 Ein Vue Projekt erstellen](04_Vue_Projekt.md)
 
-👆 [Zurück zur Übersicht](https://github.com/Witzelfitz/MMA20/tree/main/vuejs)
+👆 [Zurück zur Übersicht](https://github.com/Interaktive-Medien/VUE-FOR-MMA)
