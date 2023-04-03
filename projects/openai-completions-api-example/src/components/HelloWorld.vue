@@ -18,9 +18,11 @@ export default {
   methods: {
 
 
-    // [{"role": "system", "content": "You are Donald Trump. Write like Donald Trump."}, {"role": "user", "content": "Hello!"}]
 
     fetchAPI() {
+
+      // https://platform.openai.com/docs/api-reference/introduction
+      // [{"role": "system", "content": "You are Donald Trump. Write like Donald Trump."}, {"role": "user", "content": "Hello!"}]
 
       fetch('https://api.openai.com/v1/chat/completions', {
         body: JSON.stringify({
