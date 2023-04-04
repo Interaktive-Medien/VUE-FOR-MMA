@@ -1,6 +1,8 @@
 <template>
     <div>
-      <!-- Your template code goes here -->
+      
+        <button @click="buttonClicked()"> {{title}} </button>
+
     </div>
 
 </template>
@@ -9,14 +11,24 @@
 
   export default {
     name: 'MyButton',
+    props: {
+      title: String
+    },
     data() {
       return {
         // Your data properties go here
       };
     },
     methods: {
+
+        buttonClicked() {
+            
+            this.$emit('buttonClicked')
+
+        }
       // Your methods go here
-    }
+    },
+
   };
 
 </script>
